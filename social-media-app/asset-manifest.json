@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/social-media-app/static/css/main.33ba5169.css",
+    "main.js": "/social-media-app/static/js/main.bb253d35.js",
+    "static/js/787.399b96df.chunk.js": "/social-media-app/static/js/787.399b96df.chunk.js",
+    "static/media/cover-image.jpg": "/social-media-app/static/media/cover-image.9351b6bf3cc962959709.jpg",
+    "static/media/post-image.jpg": "/social-media-app/static/media/post-image.0f687bc959329a6f0823.jpg",
+    "static/media/profile.jpg": "/social-media-app/static/media/profile.0b2edc7b4cd23da63669.jpg",
+    "static/media/earth-outline-filled.svg": "/social-media-app/static/media/earth-outline-filled.a803b2032fd7d0b6d6deb0708091e575.svg",
+    "static/media/person-outline-filled.svg": "/social-media-app/static/media/person-outline-filled.58c3e346202d82bc699b2e23da445493.svg",
+    "static/media/home-outline-filled.svg": "/social-media-app/static/media/home-outline-filled.709e2cdc0e6c630197dc648c876ab818.svg",
+    "static/media/cog-outline-filled.svg": "/social-media-app/static/media/cog-outline-filled.ccccd79b931285e7984a7aad35d4ca76.svg",
+    "static/media/calendar-outline-filled.svg": "/social-media-app/static/media/calendar-outline-filled.2ccffa91bb03f791cec69c41a1adf573.svg",
+    "static/media/notification-outlined-filled.svg": "/social-media-app/static/media/notification-outlined-filled.35cf1a0e560e89fa3f3061fc77e73d17.svg",
+    "static/media/chat-outline-filled.svg": "/social-media-app/static/media/chat-outline-filled.8bb61d3677fc2224c8e55e869bf03298.svg",
+    "static/media/logo.svg": "/social-media-app/static/media/logo.ceaa5fa09291e48f89d562ebeeab7dfe.svg",
+    "index.html": "/social-media-app/index.html",
+    "main.33ba5169.css.map": "/social-media-app/static/css/main.33ba5169.css.map",
+    "main.bb253d35.js.map": "/social-media-app/static/js/main.bb253d35.js.map",
+    "787.399b96df.chunk.js.map": "/social-media-app/static/js/787.399b96df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33ba5169.css",
+    "static/js/main.bb253d35.js"
+  ]
+}
